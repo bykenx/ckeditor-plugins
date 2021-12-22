@@ -1,0 +1,22 @@
+{
+  "name": "ckeditor-plugins",
+  "description": "ckeditor plugins and examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ckeditor"
+  ],
+  "author": "byken",
+  "license": "MIT",
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.19.2",
+    "@rollup/plugin-typescript": "^8.3.0",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.61.1",
+    "rollup-plugin-terser": "^7.0.2",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.4"
+  }
+}
