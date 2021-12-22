@@ -1,12 +1,13 @@
 {
   "name": "ckeditor-adapter-qiniu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ckeditor qiniu upload plugin.",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
   "types": "./dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "build": "rimraf dist && rollup -c && npx api-extractor run --local && rimraf dist/dist"
