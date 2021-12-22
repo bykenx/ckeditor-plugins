@@ -34,7 +34,7 @@ importers:
     dependencies:
       '@ckeditor/ckeditor5-build-classic': 31.1.0
       '@ckeditor/ckeditor5-vue': 2.0.1
-      ckeditor-adapter-qiniu: link:../plugin-adapter-qiniu
+      ckeditor-adapter-qiniu: link:../qiniu-adapter
       vue: 3.2.26
       vue-types: 4.1.1_vue@3.2.26
     devDependencies:
@@ -43,7 +43,7 @@ importers:
       vite: 2.7.3
       vue-tsc: 0.29.8_typescript@4.5.4
 
-  packages/plugin-adapter-qiniu:
+  packages/qiniu-adapter:
     specifiers:
       '@ckeditor/ckeditor5-core': ^31.1.0
       '@types/ckeditor__ckeditor5-core': ^28.0.10
