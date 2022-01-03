@@ -4,9 +4,7 @@
 
 `@ckeditor/ckeditor5-core`
 
-## Useage
+## Usage
 
-### Vue app
-
->  See [Example](https://github.com/bykenx/ckeditor-plugins/tree/master/packages/example-app)
+>  See [Vue3 app example](https://github.com/bykenx/ckeditor-plugins/tree/master/packages/example-app)
 
