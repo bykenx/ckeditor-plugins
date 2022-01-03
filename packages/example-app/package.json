@@ -9,7 +9,7 @@
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^31.1.0",
     "@ckeditor/ckeditor5-vue": "^2.0.1",
-    "ckeditor-adapter-qiniu": "workspace:^0.0.1",
+    "ckeditor-adapter-qiniu": "workspace:^0.0.3",
     "vue": "^3.2.25",
     "vue-types": "^4.1.1"
   },
